@@ -4,3 +4,9 @@
 .page p {
   text-align: justify;
 }
+
+.hero > img {
+  max-width: 400px!important;
+  height: auto;
+  overflow: hidden;
+}

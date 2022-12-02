@@ -53,9 +53,31 @@ module.exports = {
     sidebar: {
       "/whitepaper/": [
         {
+          text: "Abstract",
+          link: "/whitepaper/abstract.md",
+        },
+        {
           text: "About Yartu",
           link: "/whitepaper/about.md",
         },
+        {
+          text: "Products Developed By Yartu",
+          children: [
+            {
+              text: "Yartu Suite",
+              link: "/whitepaper/products/suite.md",
+            },
+            {
+              text: "eYartu",
+              link: "/whitepaper/products/eyartu.md",
+            },
+            {
+              text: "Yartu Block Suite",
+              link: "/whitepaper/products/blocksuite.md",
+            },
+          ],
+        },
+
         {
           text: "Team",
           link: "/whitepaper/team.md",
