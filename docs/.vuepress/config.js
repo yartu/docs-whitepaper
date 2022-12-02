@@ -3,23 +3,23 @@ import { defaultTheme, viteBundler } from "vuepress";
 module.exports = {
   title: "Yartu Blocksuite Whitepaper",
   description: "Future of Business Applications",
-  base: "/docs-whitepaper/",
+  base: "/",
   head: [
     [
       "link",
       {
         rel: "icon",
         sizes: "32x32",
-        href: "/docs-whitepaper/images/logos/yartu-logo-icon.svg",
+        href: "/images/logos/yartu-logo-icon.svg",
       },
     ],
-    // ["link", { rel: "stylesheet", type: "text/css", href: "/docs-whitepaper/input.css" }],
+    // ["link", { rel: "stylesheet", type: "text/css", href: "/input.css" }],
     [
       "link",
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "/docs-whitepaper/reset.css",
+        href: "/reset.css",
       },
     ],
     // ["script", { src: "https://cdn.tailwindcss.com" }],
@@ -28,7 +28,7 @@ module.exports = {
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "/docs-whitepaper/icons/colored-icons/yartu-colored-icons.css",
+        href: "/icons/colored-icons/yartu-colored-icons.css",
       },
     ],
     [
@@ -36,7 +36,7 @@ module.exports = {
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "/docs-whitepaper/icons/font-icons/yartu-icons.css",
+        href: "/icons/font-icons/yartu-icons.css",
       },
     ],
   ],

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Yartu Blocksuite Whitepaper",
   "title": "Yartu Blocksuite Whitepaper",
-  "base": "docs-whitepaper",
+  "base": "",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
