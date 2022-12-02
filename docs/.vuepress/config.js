@@ -61,6 +61,10 @@ module.exports = {
           link: "/whitepaper/about.md",
         },
         {
+          text: "Industry Analysis and Product Comparison",
+          link: "/whitepaper/comparison.md",
+        },
+        {
           text: "Products Developed By Yartu",
           children: [
             {
@@ -114,6 +118,44 @@ module.exports = {
               link: "/whitepaper/ybs/note.md",
             },
           ],
+        },
+        {
+          text: "Yartu Block Suite Ecosystem",
+          link: "/whitepaper/ecosystem/index.md",
+          children: [
+            {
+              text: "Yartu Block Suite",
+              link: "/whitepaper/ecosystem/ybs.md",
+            },
+            {
+              text: "YARTU Token",
+              link: "/whitepaper/ecosystem/token.md",
+            },
+            {
+              text: "Yartu Block Suite Access Account",
+              link: "/whitepaper/ecosystem/account.md",
+            },
+            {
+              text: "Yartu Block Suite Wallet",
+              link: "/whitepaper/ecosystem/wallet.md",
+            },
+            {
+              text: "Yartu NFT Market",
+              link: "/whitepaper/ecosystem/nft.md",
+            },
+          ],
+        },
+        {
+          text: "Blockchain Technology",
+          link: "/whitepaper/blockchain.md",
+        },
+        {
+          text: "Token Business Model",
+          link: "/whitepaper/business-model.md",
+        },
+        {
+          text: "Token Economy",
+          link: "/whitepaper/token-economy.md",
         },
         {
           text: "Team",
