@@ -77,7 +77,44 @@ module.exports = {
             },
           ],
         },
-
+        {
+          text: "Yartu Block Suite (YBS) Services",
+          link: "/whitepaper/ybs/index.md",
+          children: [
+            {
+              text: "YBS E-mail Service",
+              link: "/whitepaper/ybs/email.md",
+            },
+            {
+              text: "YBS Drive Service",
+              link: "/whitepaper/ybs/drive.md",
+            },
+            {
+              text: "YBS Office Service",
+              link: "/whitepaper/ybs/office.md",
+            },
+            {
+              text: "YBS Calendar Service",
+              link: "/whitepaper/ybs/calendar.md",
+            },
+            {
+              text: "YBS Project Service",
+              link: "/whitepaper/ybs/project.md",
+            },
+            {
+              text: "YBS Directory Service",
+              link: "/whitepaper/ybs/directory.md",
+            },
+            {
+              text: "YBS Conference Service",
+              link: "/whitepaper/ybs/conference.md",
+            },
+            {
+              text: "YBS Note Service",
+              link: "/whitepaper/ybs/note.md",
+            },
+          ],
+        },
         {
           text: "Team",
           link: "/whitepaper/team.md",

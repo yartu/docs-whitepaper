@@ -1,0 +1,5 @@
+## YBS Calendar Service
+
+YBS Calendar Service; It provides fast and efficient planning of events by layering all calendars (all kinds of projects, conferences and personal calendars shared with the user) in a single view. Calendars can be easily shared with other users. Thus, employees can see each other's available times and plan their activities accordingly. Thanks to its CalDav support, YBS Calendar Service can synchronize with the calendars of mobile phones (Android, IOS) or any calendar application (Microsoft Outlook, etc.) that supports CalDav.
+
+The calendar offers different viewing options as monthly, weekly, daily and list. Thus, the user can focus on different time zones and plan their work more easily. In addition, the events of the YBS Project Service and the YBS Conference Service can be highlighted in different colors in the calendar application and processed into different calendars. In this way, the user can see at a glance which event is what type of activity and a visual confusion is avoided.

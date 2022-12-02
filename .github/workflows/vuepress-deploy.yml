@@ -17,5 +17,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: yartu/docs-whitepaper
         TARGET_BRANCH: gh_pages
-        BUILD_SCRIPT: npm install && npm run docs:build
+        BUILD_SCRIPT: npm install && npm run docs:build && cp CNAME docs/.vuepress/dist/
         BUILD_DIR: docs/.vuepress/dist/

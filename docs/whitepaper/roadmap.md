@@ -4,7 +4,7 @@
 
  - Publishing Yartu Block Suite Website and Whitepaper
  - Publishing Yartu Block Suite E-Mail Service
- - Release of Yartu Block Suite Storage Service
+ - Release of Yartu Block Suite Drive Service
 
 ### Q1 / 2023
 
