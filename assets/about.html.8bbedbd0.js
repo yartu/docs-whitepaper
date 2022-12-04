@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8e7deac2","path":"/whitepaper/about.html","title":"About Yartu","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670194100000,"contributors":[{"name":"Mücahit Büyükyılmaz","email":"mucahit@konya.edu.tr","commits":1}]},"filePathRelative":"whitepaper/about.md"}');export{t as data};

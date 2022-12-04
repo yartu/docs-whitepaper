@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1f654109","path":"/whitepaper/team.html","title":"Team","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670194100000,"contributors":[{"name":"Mücahit Büyükyılmaz","email":"mucahit@konya.edu.tr","commits":1}]},"filePathRelative":"whitepaper/team.md"}');export{e as data};

@@ -1,0 +1,12 @@
+.navbar .logo{
+  display: inline !important;
+}
+.page p {
+  text-align: justify;
+}
+
+.hero > img {
+  max-width: 400px!important;
+  height: auto;
+  overflow: hidden;
+}

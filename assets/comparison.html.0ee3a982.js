@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-52fefd1d","path":"/whitepaper/comparison.html","title":"Industry Analysis and Product Comparison","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670194100000,"contributors":[{"name":"Mücahit Büyükyılmaz","email":"mucahit@konya.edu.tr","commits":1}]},"filePathRelative":"whitepaper/comparison.md"}');export{t as data};
