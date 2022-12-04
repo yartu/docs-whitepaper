@@ -82,7 +82,37 @@ module.exports = {
           ],
         },
         {
-          text: "Yartu Block Suite (YBS) Services",
+          text: "YBS Protocols",
+          link: "/whitepaper/protocols/index.md",
+          children: [
+            {
+              text: "DAO",
+              link: "/whitepaper/protocols/dao.md",
+            },
+            {
+              text: "Yartu Domain Naming Service (YDNS)",
+              link: "/whitepaper/protocols/dns.md",
+            },
+            {
+              text: "Signed Mail Protocol",
+              link: "/whitepaper/protocols/email.md",
+            },
+            {
+              text: "DFile",
+              link: "/whitepaper/protocols/dfile.md",
+            },
+            {
+              text: "Private Set Membership",
+              link: "/whitepaper/protocols/membership.md",
+            },
+            {
+              text: "NFT",
+              link: "/whitepaper/protocols/nft.md",
+            },
+          ],
+        },
+        {
+          text: "YBS Services",
           link: "/whitepaper/ybs/index.md",
           children: [
             {
